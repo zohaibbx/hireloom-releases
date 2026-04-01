@@ -101,8 +101,8 @@ Yes! HireLoom is completely free during early access.
 
 ## Links
 
-- **Website:** [hireloom.ai](https://hireloom.ai)
-- **Support:** support@hireloom.ai
+- **Website:** [hireloom.ai](https://hireloom-beige.vercel.app/)
+- **Support:** unityzohaib@gmail.com
 
 ---
 
